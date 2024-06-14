@@ -25,4 +25,11 @@ python inference7visualize.py --data_path 数据集目录
 
 结果就会保存在visualize目录下
 
+# 随机挑选结果展示
+
+![image](https://github.com/ljl86092297/Anomaly_Detection/assets/59467994/cf094eb7-ba85-4205-a9a6-c037b1920a84)
+![image](https://github.com/ljl86092297/Anomaly_Detection/assets/59467994/8b08f4d5-47e1-451b-a5a2-5df540618413)
+![image](https://github.com/ljl86092297/Anomaly_Detection/assets/59467994/fc4374ae-9ce7-4497-ace7-6422729c9739)
+
+
 
