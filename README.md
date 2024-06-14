@@ -18,6 +18,7 @@ Unzip the file to `../mvtec_anomaly_detection`.
     |-- ....
 ```
 # 预训练模型下载：
+https://github.com/ljl86092297/Anomaly_Detection/releases/tag/v1.0.0 将下好的权重文件放在weight下即可
 
 # 推理并可视化
 python inference7visualize.py --data_path 数据集目录
