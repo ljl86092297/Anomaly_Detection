@@ -1,6 +1,8 @@
 # 简介
 这是一个基于https://github.com/ljl86092297/Dinomaly  复现 并在MVTEC-AD数据集上推理并可视化结果， 本人电脑RTX3050 平均每张图在15ms以下。  
 工业缺陷检测
+原论文地址：
+https://arxiv.org/pdf/2405.14325
 
 #环境
 python==3.8
