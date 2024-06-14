@@ -4,8 +4,9 @@
 原论文地址：
 https://arxiv.org/pdf/2405.14325
 
-#环境
+# 环境
 python==3.8
+
 pip install -r requirements.txt
 
 # 数据下载：MVTEC-AD
