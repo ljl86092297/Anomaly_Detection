@@ -17,7 +17,11 @@ Unzip the file to `../mvtec_anomaly_detection`.
     |-- capsule
     |-- ....
 ```
+# 预训练模型下载：
+
 # 推理并可视化
 python inference7visualize.py --data_path 数据集目录
 
 结果就会保存在visualize目录下
+
+
